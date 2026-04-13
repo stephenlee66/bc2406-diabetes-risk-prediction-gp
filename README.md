@@ -6,7 +6,7 @@ Group project for BC2406 Analytics I: Visual and Predictive Techniques, focused 
 This project uses symptom-based and health-indicator datasets to identify diabetes risk patterns through predictive modelling. Logistic Regression and CART were applied and compared. The findings from both models were then translated into developing a preventive-care solution which we called DiaScope.
 
 ## Data Source
-Both datasets were sourced from Kaggle
+Both datasets were sourced from Kaggle.
 
 ## Methodology
 1. Data Cleaning and Preprocessing
