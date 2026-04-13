@@ -8,7 +8,7 @@ This project uses symptom-based and health-indicator datasets to identify diabet
 ## Data Source
 Both datasets were sourced from Kaggle.
 
-## Methodology
+## Pipeline
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis
 3. Logistic Regression
